@@ -1,4 +1,4 @@
-# Pacman 
+# Pacman jugable en minecraft
 
 Trabajo Final Integrador - Metodología de la Programación (UADER FCyT, Ingeniería en Telecomunicaciones, 2026)
 
